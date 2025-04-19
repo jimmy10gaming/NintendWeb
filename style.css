@@ -2,8 +2,11 @@
  border: 5px solid;
  height: 300px;
  width: 300px;
- background-image: url(/imagehere)
+ background-image: url(/minecraftlogo.png)
 
- position: sticky;
- top: 0px;
+ position: absolute;
+  top: -50px;
+  right: -50px;
+  bottom: 0px;
+  left: 0px;
 }
